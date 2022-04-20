@@ -68,13 +68,13 @@ void setup() {
   lcd.setCursor(0, 2);
   lcd.print("--------------------");
   lcd.setCursor(0, 3);
-  lcd.print("v5.4                ");
+  lcd.print("v5.5p               ");
   delay(300);
   lcd.setCursor(0, 0);
-  lcd.print("    A P A R E L'");
+  lcd.print("FREYA");
   delay(800);
   lcd.setCursor(0, 1);
-  lcd.print("     F R E Y A");
+  lcd.print("public version");
   delay(1800);
   lcd.clear();
   strip.clear();
